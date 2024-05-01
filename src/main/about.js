@@ -34,9 +34,7 @@ export default function about() {
         Whether you're a job seeker looking for your dream career or an employer
         seeking top talent, we're here to help you achieve your goals.
       </p>
-      <footer className="about-us__footer">
-        <span>Created By <a href="#">Team Find You??</a> | © 2024 All Rights Reserved</span>
-      </footer>
+      
 
     </div>
   )

@@ -1,7 +1,7 @@
 import { Link,Route,Routes } from 'react-router-dom'
 
 import './Home.css'
-import Logo from './images/logo.jpg'
+// import Logo from './images/logo.jpg'
 
 import SignIn from '../jobhunter/SignIn';
 

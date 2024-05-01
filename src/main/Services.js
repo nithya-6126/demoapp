@@ -54,9 +54,7 @@ export default function Services() {
           <button onClick={handleNext}>Next</button>
         </div>
       </div>
-      <footer className="about-us__footer">
-        <span>Created By <a href="#">Team Find You??</a> | © 2024 All Rights Reserved</span>
-        </footer>
+      
     </section>
   );
 }

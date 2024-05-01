@@ -61,9 +61,7 @@ export default function Contact() {
         ></textarea>
         <button type="submit">Submit</button>
         {message && <p className="message">{message}</p>}
-        <footer className="about-us__footer">
-        <span>Created By <a href="#">Team Find You??</a> | © 2024 All Rights Reserved</span>
-        </footer>
+        
       </form>
     </div>
   );
